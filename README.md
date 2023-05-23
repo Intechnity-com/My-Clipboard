@@ -1,6 +1,6 @@
 ![Screenshot](./phone_screenshot.png)
 
-# My-Clipboard Issues Tracker
+# My-Clipboard
 
 This GitHub repository is dedicated to tracking issues, feature requests, and enhancements for [My-Clipboard](https://my-clipboard.com), a cross-platform clipboard hub available as a web application and a mobile app. My-Clipboard is designed to sync, organize, and share your content effortlessly, offering a suite of online tools that simplify everyday tasks, with Notes, Timers, and Sharing features available all in one place.
 
